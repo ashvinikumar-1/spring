@@ -7,6 +7,12 @@ public class TenisCoach implements Coach{
 		// TODO Auto-generated method stub
 		return "Practice 50 mins on bolly";
 	}
+
+	@Override
+	public String getFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 
 }
